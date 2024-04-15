@@ -1,0 +1,5 @@
+# CSE
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| CSE 191 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer3/blob/main/overall/CSE%20191.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_overall/CSE%20191.png) |  |
