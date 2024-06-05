@@ -1,0 +1,5 @@
+# BISP
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| BISP 197 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer3/blob/main/overall/BISP%20197.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_overall/BISP%20197.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_overall_wide/BISP%20197.png) | Section 001: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer3/blob/main/section/BISP%20197_001.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_section/BISP%20197_001.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_section_wide/BISP%20197_001.png)<br>Section 002: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer3/blob/main/section/BISP%20197_002.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer3/main/plot_section/BISP%20197_002.png) |
